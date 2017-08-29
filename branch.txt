@@ -1,7 +1,7 @@
 This is local rep!
 
-本地库修改！！！
-这是本地
+鏈湴搴撲慨鏀癸紒锛侊紒
+杩欐槸鏈湴
 
 branch is quick
 2017/8.291111
@@ -11,3 +11,4 @@ another person fix.
 lightsu1029 fix.
 fetch only test~
 
+锛侊紒锛侊紒锛侊紒锛侊紒锛侊紒锛侊紒
